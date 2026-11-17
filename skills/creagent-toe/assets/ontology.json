@@ -9,7 +9,7 @@
     "rights_status": "unknown"
   },
   "axes": [
-    {"id": "vertical", "positive": "up/onenness", "negative": "down/nothingness", "examples": ["one", "abyss"]},
+    {"id": "vertical", "positive": "up/oneness", "negative": "down/nothingness", "examples": ["one", "abyss"]},
     {"id": "horizontal", "positive": "right/outward", "negative": "left/inward", "examples": ["sun", "moon"]},
     {"id": "diagonal_cue", "positive": "top-right/outward", "negative": "bottom-left/inward", "examples": []}
   ],
